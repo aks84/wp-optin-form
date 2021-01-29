@@ -1,0 +1,29 @@
+.optinbox 
+{
+	text-align: center;
+}
+
+.optinwrapper
+{
+	display: inline-block;
+	margin-right: 0px auto;
+	margin-left: 0px auto;
+	padding: 5px;
+	border:1px solid lightgray;
+	border-radius: 5px;
+}
+
+.freebie 
+{
+	display: inline-block;
+	float: left;
+	margin-right: 10px;
+	
+	border-radius: 5px;
+}
+
+
+.optinbox form
+{
+	display: inline-block;
+}
