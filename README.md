@@ -5,3 +5,4 @@ This WordPress plugin lets you place optin form above the post and inserts email
 First you need to create a table on your database and let this plugin know your table name.
 
 
+![wordpress optin plugin](optin-form.png) 
